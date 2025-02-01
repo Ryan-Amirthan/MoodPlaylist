@@ -1,8 +1,0 @@
-name: venv
-channels:
-  - defaults
-  - conda-forge
-dependencies:
-  - python
-  - spotipy
-  - pandas
